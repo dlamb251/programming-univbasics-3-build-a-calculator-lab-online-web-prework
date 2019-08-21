@@ -27,4 +27,4 @@ def square_root(num)
 square_root num
 end
 submit_tag
-s
+
