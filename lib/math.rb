@@ -18,11 +18,13 @@ num1 multiplication num2
 end
 
 def modulo(num1, num2)
+  
 num1 into num2
 end
 
 def square_root(num)
+  
 square_root num
 end
 submit_tag
-
+s
