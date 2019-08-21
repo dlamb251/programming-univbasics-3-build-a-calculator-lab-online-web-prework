@@ -25,4 +25,4 @@ def square_root(num)
 square_root num
 end
 submit_tag
-submit_tag
+submit_t
